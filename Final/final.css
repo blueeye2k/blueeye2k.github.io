@@ -1,10 +1,14 @@
 /*BEGIN Xbox One Controller Styling*/
 .controller.xbox {
-    background: url(basemod.png);
+    background: url(https://github.com/blueeye2k/blueeye2k.github.io/blob/main/Final/basemod.png);
     height: 630px;
     width: 750px;
     /*    margin-left: -375px;
         margin-top: -285px;*/
+}
+
+.xbox.white {
+    background: url(https://github.com/blueeye2k/blueeye2k.github.io/blob/main/Final/basemod.png);
 }
 
 /*END Xbox One Controller Styling*/
